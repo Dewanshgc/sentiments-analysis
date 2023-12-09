@@ -1,4 +1,4 @@
-# sentiments-analysis
+# SENTIMENTS-ANALYSIS
 # Phase 1: Problem Definition and Design Thinking
 
 # *1.* *Define the Problem:*
